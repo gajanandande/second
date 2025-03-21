@@ -1,2 +1,3 @@
 ﻿systeminfo
 date
+time
