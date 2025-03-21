@@ -1,3 +1,4 @@
 ﻿systeminfo
 date
 time
+uptime
