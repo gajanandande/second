@@ -2,3 +2,4 @@
 date
 time
 uptime
+netstat
