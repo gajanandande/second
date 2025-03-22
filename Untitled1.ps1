@@ -1,5 +1,7 @@
 ﻿systeminfo
 date
 time
-uptime
+dfuptime
+
+ddf
 netstat
